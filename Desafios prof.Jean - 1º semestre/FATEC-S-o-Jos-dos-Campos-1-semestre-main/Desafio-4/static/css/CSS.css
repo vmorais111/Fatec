@@ -1,0 +1,24 @@
+body {
+    margin-left: 220px;
+    max-width: 900px;
+    ;
+}
+.textocontato {
+    margin-left: 490px;
+}
+.imglogo {
+    margin-top: 10px;
+}
+.imgcapa{
+    margin-top: 25px;
+}
+.direitos{
+    text-align: center;
+    font-weight: bold;
+}
+.submit{
+    margin-top: 2px;
+}
+.caixatextoquemsomos{
+    margin-top: 30px;
+}
